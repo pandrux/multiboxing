@@ -1,0 +1,36 @@
+Invite Party
+-------------------------------
+invite Kilaris
+invite Lorisina
+invite Milleses
+invite Nidueax
+invite Ophelias
+
+
+Follow FTL
+---------------------------------
+targetexact [shift] Kilaris
+targetexact [alt] Lorisina
+targetexact [ctrl] Milleses
+targetexact [shift] [alt] Nidueax
+targetexact [shift] [ctrl] Ophelias
+follow
+targetlasttarget
+
+
+Assist FTL
+---------------------------------
+assist [shift] Kilaris
+assist [alt] Lorisina
+assist [ctrl] Milleses
+assist [shift] [alt] Nidueax
+assist [shift] [ctrl] Ophelias
+
+
+Focus FTL
+---------------------------------
+focus [shift] Kilaris
+focus [alt] Lorisina
+focus [ctrl] Milleses
+focus [shift] [alt] Nidueax
+focus [ctrl] [shift] Ophelias
